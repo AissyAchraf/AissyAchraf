@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AissyAchraf" alt="AissyAchraf" /></a> </p>
 
-- 🔭 I’m currently working as full stack web developer at **Tsunami IT**
+- 🔭 I’m student at **ENSA Khouribga**
 
-- 🌱 I’m currently learning **AWS & mobile development with Flutter**
+- 🌱 I passed my first profrssional experience at **Tsunami IT** 
 
 - 💬 Feel free to ask me about **anything**
 
-- 📫 How to reach me **mohamed.ben.othman@outlook.com**
+- 📫 How to reach me **achrafaissy1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohamedbenothman1/](https://www.linkedin.com/in/mohamedbenothman1/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/AissyAchraf/](https://www.linkedin.com/in/AissyAchraf/)
 
 <p align="left">
 </p>
