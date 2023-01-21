@@ -5,7 +5,7 @@
 
 - 🔭 I’m student at **ENSA Khouribga**
 
-- 🌱 I passed my first profrssional experience at **Tsunami IT** 
+- 🌱 I'm learning **Spring** 
 
 - 💬 Feel free to ask me about **anything**
 
