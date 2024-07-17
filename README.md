@@ -4,9 +4,9 @@
 
 <!-- Intro  -->
 <h2 align="center">
-        <samp>&gt; Hey There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am
-                <b>Achraf Aissy</b>
-        </samp>
+     <samp>&gt; Hey There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am
+             <b>Achraf Aissy</b>
+     </samp>
 </h2>
 
 
@@ -17,6 +17,7 @@
     <br>
   </samp>
 </p>
+
 
 <p align="center">
  <a href="https://discord.com/users/achrafaissy">
@@ -70,15 +71,17 @@ public class AboutMe {
 </div>
 
 <br/>
-<!-- border-radius is not working -->
-<div align="center">
+<div align="center" style="border-raduis=10px">
   <img src="assets/wallpaper.png" alt="Wallpaper" width="835">
 </div>
 
-<br/>
-<hr/>
-<br/>
-
+<!-- Stats Section -->
+ # Github Stats
 <p align="center">
-<a href="https://github.com/AissyAchraf"><img src="https://streak-stats.demolab.com?user=AissyAchraf&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" /></a>
+   <a href="https://github.com/AissyAchraf">
+      <img src="https://streak-stats.demolab.com?user=AissyAchraf&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AissyAchraf&theme=highcontrast&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_border=true&card_width=835" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AissyAchraf&theme=highcontrast&hide=blade,scss,css,javascript&layout=compact&hide_border=true&card_width=835" alt="GitHub Stats" />
+   </a>
 </p>
+
