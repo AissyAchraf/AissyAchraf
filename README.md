@@ -1,26 +1,84 @@
-<h1 align="center">Hi 👋, I'm Achraf AISSY</h1>
-<h3 align="center">A Engineering student in computer science and data engineering</h3>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AissyAchraf" alt="AissyAchraf" /></a> </p>
+<!-- Intro  -->
+<h2 align="center">
+        <samp>&gt; Hey There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am
+                <b>Achraf Aissy</b>
+        </samp>
+</h2>
 
-- 🔭 I’m student at **ENSA Khouribga**
 
-- 🌱 I'm learning **Spring** 
-
-- 💬 Feel free to ask me about **anything**
-
-- 📫 How to reach me **achrafaissy1@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/AissyAchraf/](https://www.linkedin.com/in/AissyAchraf/)
-
-<p align="left">
+<p align="center"> 
+  <samp>
+    「 I am a Computer Science and Data Engineer from <b>Morocco</b> 」
+    <br>
+    <br>
+  </samp>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+ <a href="https://discord.com/users/achrafaissy">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="aissyachraf" />
+ </a>
+ <a href="https://www.linkedin.com/in/achraf-aissy-2338a1206/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aissyachraf"/>
+ </a>
+ <a href="https://x.com/AchrafAissy" target="_blank">
+  <img alt="aissyachraf" src="https://img.shields.io/badge/Follow_Me-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+ </a>
+</p>
+<br/>
 
+<!-- About Section -->
+ # About me
+ 
+```java
+public class AboutMe {
+
+    Info info = new Info(
+        // who am I ?
+        this.fullName = "Achraf Aissy";
+        this.username = "achrafaissy";
+        this.role = "Computer Science & Data Engineer";
+
+        // additional information
+        this.interest = "Java Enthusiast";
+        this.learning = "Microservices and Distributed Architecture";
+        this.comment = "I love contributing to open-source projects and discussing about tech.";
+    );
+
+    public String toString() {
+        return this.info.fullName;
+    }
+
+    public static void main(String[] args) {
+        AboutMe me = new AboutMe();
+        System.out.println(me.toString());
+    }
+}
+```
+<br/>
+
+<!-- Stack Section -->
+ # Stack & Tools
+<div align="center">
+  <a href="https://github.com/ayeshanweerasuriya">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,nodejs,c,idea,git,github,gitlab,angular,python,pytorch,anaconda,php,postman,laravel,react,vscode,kubernetes,docker,kafka,mongo,express,linux,bash,selenium,maven" />
+  </a>
+</div>
+
+<br/>
+<!-- border-radius is not working -->
+<div align="center">
+  <img src="assets/wallpaper.png" alt="Wallpaper" width="835">
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+<a href="https://github.com/AissyAchraf"><img src="https://streak-stats.demolab.com?user=AissyAchraf&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" /></a>
+</p>
